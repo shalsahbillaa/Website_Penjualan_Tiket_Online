@@ -1,2 +1,2 @@
-# Website_Penjualan_Tiket_Online
+# Website Penjualan Tiket Online
 Aplikasi Penjualan Tiket Event bernama Gettick. Gettick  merupakan layanan penyedia tiket event dan wadah pemasaran tiket yang dilakukan  untuk mempromosikan suatu event. Aplikasi Gettick merupakan proyek pembuatan  platform berbasis website yang dapat digunakan sebagai media mendapatkan informasi  mengenai berbagai event sekaligus melakukan pembelian tiket. Dengan adanya aplikasi  ini, diharapkan dapat meminimalisir adanya pembelian tiket pada pihak ilegal. Visi dan  Misi dari kami adalah meningkatkan pemasaran tiket, promosi, dan pendapatan suatu  event, serta customer dapat melakukan transaksi dengan efisien, dan aman.
